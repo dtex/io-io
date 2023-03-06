@@ -1,0 +1,22 @@
+{
+  "name": "io-io",
+  "version": "0.0.1",
+  "description": "Shim that provides a TC-53 IOCP surface API for IO-plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtex/io-io.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtex/io-io/issues"
+  },
+  "homepage": "https://github.com/dtex/io-io#readme",
+  "dependencies": {
+    "firmata": "^2.2.0"
+  }
+}
